@@ -1,0 +1,61 @@
+body {
+	font-family: 'Arial', sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+#page_container {
+	width: 2200px;
+	margin: 0 auto;
+	min-height: 100%;
+	zoom: 50%;
+}
+
+footer {
+	height: 130px;
+	color: white;
+	background-color: #15c5bf;
+}
+
+.strong_text {
+	font-weight: bolder;
+}
+
+.footer_nav {
+	color: white;
+	list-style-type: none;
+	font-size: 25px;
+}
+
+.footer_nav a {
+	color: white;
+	letter-spacing: 1px;
+}
+
+.lighter_text {
+	font-weight: lighter;
+}
+
+.waiata_sentence {
+	font-size: 27px;
+	display: inline-block;
+	margin-top: 15px;
+	font-family:'Times New Roman', Times, serif;
+	font-style: italic;
+	font-weight: lighter;
+}
+
+
+#line2 {
+	margin-top: -15px;
+}
+
+#footer_logo {
+	font-family: 'STHupo', Times, sans-serif;
+	font-size: 17px;
+	margin-top: -55px;
+	margin-left: 1930px;
+
+}
