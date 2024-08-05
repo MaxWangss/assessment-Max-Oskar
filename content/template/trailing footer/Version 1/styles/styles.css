@@ -1,61 +1,114 @@
-body {
-	font-family: 'Arial', sans-serif;
-	font-size: 12px;
-	margin: 0;
-	padding: 0;
-	height: 100%;
+@import url('http://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
 }
 
-#page_container {
-	width: 2200px;
-	margin: 0 auto;
-	min-height: 100%;
-	zoom: 50%;
+.footer_container {
+	text-align: center;
+	margin: auto;
 }
 
-footer {
-	height: 130px;
-	color: white;
-	background-color: #15c5bf;
+
+ul {
+	list-style: none;
 }
 
-.strong_text {
-	font-weight: bolder;
+.footer{
+	background-color: #2FBEC2;
+	padding: 20px 0;
 }
 
-.footer_nav {
-	color: white;
-	list-style-type: none;
+#footer_title_find_us {
 	font-size: 25px;
-}
-
-.footer_nav a {
+	font-family: 'Poppins',sans-serif;
 	color: white;
-	letter-spacing: 1px;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+	position: relative;
 }
 
-.lighter_text {
-	font-weight: lighter;
+#footer_title_find_us::before {
+	content: '';
+	position: absolute;
+	bottom: -10px;
+	background-color: white;
+	height: 2px;
+	box-sizing: border-box;
+	width: 90px;
 }
 
-.waiata_sentence {
-	font-size: 27px;
+.footer_title_contact_us {
+	font-size: 25px;
+	font-family: 'Poppins',sans-serif;
+	color: white;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+	position: relative;
+}
+
+
+.footer_title_contact_us::before {
+	content: '';
+	position: absolute;
+	bottom: -10px;
+	background-color: white;
+	height: 2px;
+	box-sizing: border-box;
+	width: 140px;
+}
+
+.footer_title_follow_us {
+	font-size: 25px;
+	font-family: 'Poppins',sans-serif;
+	color: white;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+	position: relative;
+}
+
+
+.footer_title_follow_us::before {
+	content: '';
+	position: absolute;
+	bottom: -10px;
+	background-color: white;
+	height: 2px;
+	box-sizing: border-box;
+	width: 120px;
+}
+
+.Find_Us_info {
+	font-size: 16px;
+	color: white;
+	font-weight: 300;
+}
+
+.content {
+	margin-left:-30px;
+	font-size: 16px;
+	color: white;
+	font-weight: 300;
+	display: block;
+	transition: all 0.3s ease;
+}
+
+.content:hover {
+	color: rgb(121, 121, 121);
+	padding-left: 8x;
+}
+
+.social_links {
+	font-size: 30px;
 	display: inline-block;
-	margin-top: 15px;
-	font-family:'Times New Roman', Times, serif;
-	font-style: italic;
-	font-weight: lighter;
+	margin-left: 8px;
+	text-align: center;
+	transition: all 0.3s ease;
+	color:white;
 }
 
-
-#line2 {
-	margin-top: -15px;
-}
-
-#footer_logo {
-	font-family: 'STHupo', Times, sans-serif;
-	font-size: 17px;
-	margin-top: -55px;
-	margin-left: 1930px;
-
+.social_links:hover{
+	color: rgb(121, 121, 121);
 }
