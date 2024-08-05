@@ -16,7 +16,7 @@ ul {
 	padding: 20px 0;
 }
 
-.footer:before {
+.footer::before {
 	content: '';
 	position: absolute;
 	margin-top:-20px;
