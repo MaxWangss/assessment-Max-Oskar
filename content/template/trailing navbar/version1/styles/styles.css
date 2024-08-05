@@ -17,6 +17,7 @@ ul {
 }
 
 .content {
+    text-decoration: none;
 	margin-left:-30px;
 	font-size: 16px;
 	color: white;
@@ -26,7 +27,7 @@ ul {
 }
 
 .content:hover {
-	color: #FDC010;
+	color: #ddbf67;
 	padding-left: 8x;
 }
 
@@ -40,5 +41,5 @@ ul {
 }
 
 .social_links:hover{
-	color: #FDC010;
+	color: #E0AA0E;
 }
