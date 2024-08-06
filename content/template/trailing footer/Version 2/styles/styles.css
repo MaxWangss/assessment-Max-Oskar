@@ -13,7 +13,7 @@ ul {
 
 .footer{
 	background-color: #2FBEC2;
-	padding: 20px 0;
+	padding: 20px 0 10px 0;
 }
 
 .footer::before {
@@ -88,9 +88,11 @@ ul {
 	font-size: 16px;
 	color: white;
 	font-weight: 300;
+	line-height: 1;
 }
 
 .content {
+	margin-top: -5px;
 	margin-left:-30px;
 	font-size: 16px;
 	color: white;
@@ -99,15 +101,19 @@ ul {
 	transition: all 0.3s ease;
 }
 
+.footer_email {
+	line-height: 2;
+}
+
 .content:hover {
 	color: #FDC010;
 	padding-left: 8x;
 }
 
 .social_links {
-	font-size: 30px;
+	font-size: 45px;
 	display: inline-block;
-	margin-left: 8px;
+	margin-left: 7px;
 	text-align: center;
 	transition: all 0.3s ease;
 	color:white;
