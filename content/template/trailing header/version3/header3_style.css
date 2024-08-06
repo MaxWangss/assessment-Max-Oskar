@@ -23,11 +23,6 @@ header{
 	background-color: #2FBEC2;
 }
 
-#top_con{
-	background-color: #2FBEC2;
-	/*height: 200px;*/
-}
-
 #nav_con {
     background-color: #FDC010;
 }
@@ -81,6 +76,7 @@ header{
 /* Index Exclusive */
 .mid_con{
 	height: 1270px;
+    background-color: white;
 }
 
 /* End of Index Exclusive */
