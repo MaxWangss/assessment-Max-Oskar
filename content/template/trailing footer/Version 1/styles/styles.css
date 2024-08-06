@@ -13,7 +13,7 @@ ul {
 	padding: 20px 0;
 }
 
-#footer_title_find_us {
+.footer_title {
 	font-size: 25px;
 	color: white;
 	text-transform: capitalize;
@@ -21,45 +21,7 @@ ul {
 	position: relative;
 }
 
-#footer_title_find_us::before {
-	content: '';
-	position: absolute;
-	bottom: -10px;
-	background-color: white;
-	height: 2px;
-	box-sizing: border-box;
-	width: 90px;
-}
-
-.footer_title_contact_us {
-	font-size: 25px;
-	color: white;
-	text-transform: capitalize;
-	margin-bottom: 30px;
-	position: relative;
-}
-
-
-.footer_title_contact_us::before {
-	content: '';
-	position: absolute;
-	bottom: -10px;
-	background-color: white;
-	height: 2px;
-	box-sizing: border-box;
-	width: 140px;
-}
-
-.footer_title_follow_us {
-	font-size: 25px;
-	color: white;
-	text-transform: capitalize;
-	margin-bottom: 30px;
-	position: relative;
-}
-
-
-.footer_title_follow_us::before {
+.footer_title::before {
 	content: '';
 	position: absolute;
 	bottom: -10px;
