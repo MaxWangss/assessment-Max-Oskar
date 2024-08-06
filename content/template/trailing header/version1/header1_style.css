@@ -23,21 +23,16 @@ header{
 	background-color: #ffffff;
 }
 
-#top_con{
-	background-color: #2FBEC2;
-	/*height: 200px;*/
-}
-
 
 #border_con{
-    border: 2px solid #E42D26;
+    border: 4px solid #2FBEC2;
 }
 
 
 
 #title {
     font-family: helvetica;
-    color: white;
+    color: #2FBEC2;
     font-weight: bold;
 }
 
