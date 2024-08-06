@@ -23,6 +23,13 @@ header{
 	background-color: #FDC010;
 }
 
+#nav_con {
+    background-color: #2FBEC2;
+}
+
+#border_con{
+    border: 2px solid #E42D26;
+}
 
 
 #title {
@@ -36,6 +43,7 @@ header{
 @media (max-width: 767px) {
 	#title{
         font-size: 30px;
+        text-align: right;
     }
 }
 
