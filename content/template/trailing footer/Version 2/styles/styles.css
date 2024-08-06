@@ -91,17 +91,18 @@ ul {
 	line-height: 1;
 }
 
-.footer_email {
-	line-height: 2;
-}
-
 .content {
+	margin-top: -5px;
 	margin-left:-30px;
 	font-size: 16px;
 	color: white;
 	font-weight: 300;
 	display: block;
 	transition: all 0.3s ease;
+}
+
+.footer_email {
+	line-height: 2;
 }
 
 .content:hover {
