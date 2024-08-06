@@ -23,21 +23,12 @@ header{
 	background-color: #2FBEC2;
 }
 
-#top_con{
-	background-color: #2FBEC2;
-	/*height: 200px;*/
-}
-
 #nav_con {
     background-color: #FDC010;
 }
 
 #border_con{
     border: 2px solid #E42D26;
-}
-
-#border_con2{
-    border: 4px solid #E42D26;
 }
 
 
@@ -79,42 +70,13 @@ header{
 
 
 
-
-
-
-nav ul{
-    padding:0;  
-    font-family: helvetica;
-    font-size:25px;  
-	padding-left:35px;
-}
-
-nav li{
-    display:inline-block;
-	padding-left: 15px;
-}
-nav a{
-    display:block;
-	width: 310px;
-	text-align: center;
-	height: 40px;
-    padding: 15px 10px 10px 10px;
-    color:white;  
-    text-decoration:none;
-	border: 3px solid white;
-
-}
-nav a:hover{
-	background-color: #ff9100;
-}
-
-
 /* Constants Code End*/
 
 
 /* Index Exclusive */
 .mid_con{
 	height: 1270px;
+    background-color: white;
 }
 
 /* End of Index Exclusive */
