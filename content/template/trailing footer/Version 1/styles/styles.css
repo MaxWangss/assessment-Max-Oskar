@@ -21,7 +21,7 @@ ul {
 	position: absolute;
 	margin-top:-20px;
 	width: 100%;
-	height: 5px;
+	height: 10px;
 	background: #E42D26;
 }
 
@@ -96,12 +96,6 @@ ul {
 	color: white;
 	font-weight: 300;
 	display: block;
-	transition: all 0.3s ease;
-}
-
-.content:hover {
-	color: #FDC010;
-	padding-left: 8x;
 }
 
 .social_links {
@@ -109,10 +103,5 @@ ul {
 	display: inline-block;
 	margin-left: 8px;
 	text-align: center;
-	transition: all 0.3s ease;
 	color:white;
-}
-
-.social_links:hover{
-	color: #FDC010;
 }
