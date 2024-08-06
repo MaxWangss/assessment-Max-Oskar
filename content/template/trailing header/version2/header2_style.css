@@ -1,0 +1,75 @@
+/* Constants Code*/
+
+.h1{
+    font-family: helvetica;
+}
+.h2{
+    font-family: helvetica;
+}
+.h3{
+    font-family: helvetica;
+}
+.h4{
+    font-family: helvetica;
+}
+
+/*#main_container{
+	width:1500px;
+	margin: 0 auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}*/
+
+header{
+	background-color: #FDC010;
+}
+
+
+
+#title {
+    font-family: helvetica;
+    color: white;
+    font-weight: bold;
+}
+
+
+/* Small devices and smaller (landscape phones, 576px and up)*/
+@media (max-width: 767px) {
+	#title{
+        font-size: 30px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+	#title{
+        font-size: 50px;
+        text-align: center;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	#title{
+        font-size: 60px;
+        text-align: center;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {}
+
+
+
+/* Constants Code End*/
+
+
+/* Index Exclusive */
+.mid_con{
+	height: 1270px;
+    background-color: white;
+}
+
+/* End of Index Exclusive */
