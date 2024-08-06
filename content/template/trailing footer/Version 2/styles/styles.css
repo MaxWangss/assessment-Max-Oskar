@@ -11,10 +11,16 @@ ul {
 	list-style: none;
 }
 
+/* I changed the full color schedule of the page to make it more match to the whole website */
+
 .footer{
 	background-color: #2FBEC2;
 	padding: 20px 0;
 }
+
+/* I used seperate css code to change the line length of each title to make the page to be more comfortable.*/
+
+/* I added a red line on the top of the footer to make the footer to have more feeling of design */
 
 .footer::before {
 	content: '';
@@ -25,6 +31,8 @@ ul {
 	background: #E42D26;
 }
 
+/* The font size of the title is changed to be bigger order to match the size of the context */
+
 .footer_title_find_us {
 	font-size: 25px;
 	font-family: 'Poppins',sans-serif;
@@ -33,6 +41,8 @@ ul {
 	margin-bottom: 30px;
 	position: relative;
 }
+
+/* I changed the color from red to white and blue which make it be more fit. */
 
 .footer_title_find_us::before {
 	content: '';
