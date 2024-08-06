@@ -34,8 +34,8 @@ header{
 
 #title {
     font-family: helvetica;
-    color: rgb(0, 0, 0);
-    font-weight: bolder;
+    color: white;
+    font-weight: bold;
 }
 
 
@@ -50,6 +50,7 @@ header{
 @media (min-width: 768px) {
 	#title{
         font-size: 50px;
+        text-align: center;
     }
 }
 
