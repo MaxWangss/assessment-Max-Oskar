@@ -11,10 +11,14 @@ ul {
 	list-style: none;
 }
 
+/* I decreased the height of the page after the feedback which make the view of footer to be more comfortable */
+
 .footer{
 	background-color: #2FBEC2;
 	padding: 20px 0 10px 0;
 }
+
+/* I decreased the height of the line on the top of the footer to be more fit the footer */
 
 .footer::before {
 	content: '';
@@ -24,6 +28,8 @@ ul {
 	height: 5px;
 	background: #E42D26;
 }
+
+/* I increased the font weight of the title which make it to be more catchy and attractive */
 
 .footer_title_find_us {
 	font-size: 25px;
@@ -113,6 +119,8 @@ ul {
 	color: #FDC010;
 	padding-left: 8x;
 }
+
+/* I increased the size of the logo of social links after the feedback to make it more fit the footer. */
 
 .social_links {
 	font-size: 45px;
