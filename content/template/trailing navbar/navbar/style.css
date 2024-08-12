@@ -1,5 +1,10 @@
 /* Constants Code*/
 
+#nav_con {
+	text-align: center;
+	margin: auto;
+}
+
 .h1{
     font-family: helvetica;
 }
