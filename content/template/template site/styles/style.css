@@ -33,12 +33,45 @@ header{
     border: 2px solid #E42D26;
 }
 
+#border_con2{
+    border: 4px solid #E42D26;
+}
+
 
 #title {
     font-family: helvetica;
     color: white;
     font-weight: bold;
 }
+
+#nav_container {
+    text-align: center;
+}
+
+nav ul{
+    font-family: helvetica;
+    /*font-size:25px;*/
+	/*padding-left:35px;*/
+}
+
+nav li{
+    display:inline-block;
+}
+nav a{
+    display:block;
+	/*text-align: center;
+    width: 310px;
+	height: 40px;
+    padding: 15px 10px 10px 10px;*/
+    color:white;  
+    text-decoration:none;
+	border: 3px solid white;
+
+}
+nav a:hover{
+	background-color: #ff9100;
+}
+
 
 .footer_container {
 	text-align: center;
