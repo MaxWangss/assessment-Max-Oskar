@@ -1,5 +1,13 @@
 /* Constants Code*/
 
+
+
+#nav_container {
+    text-align: center;
+}
+
+
+
 .h1{
     font-family: helvetica;
 }
@@ -21,11 +29,6 @@
 
 header{
 	background-color: #2FBEC2;
-}
-
-#top_con{
-	background-color: #2FBEC2;
-	/*height: 200px;*/
 }
 
 #nav_con {
@@ -76,7 +79,6 @@ header{
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1400px) {}
-
 
 
 
