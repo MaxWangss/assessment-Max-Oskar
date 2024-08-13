@@ -1,5 +1,7 @@
 /* Constants Code*/
 
+@import url('http://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 .h1{
     font-family: helvetica;
 }
@@ -37,13 +39,6 @@ header{
     color: white;
     font-weight: bold;
 }
-
-
-
-
-
-@import url('http://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-
 
 .footer_container {
 	text-align: center;
