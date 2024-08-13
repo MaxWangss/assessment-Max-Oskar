@@ -1,10 +1,5 @@
 /* Constants Code*/
 
-#nav_con {
-	text-align: center;
-	margin: auto;
-}
-
 .h1{
     font-family: helvetica;
 }
@@ -95,7 +90,6 @@ nav ul{
 
 nav li{
     display:inline-block;
-	padding-left: 15px;
 }
 nav a{
     display:block;
@@ -115,10 +109,5 @@ nav a:hover{
 
 /* Constants Code End*/
 
-
-/* Index Exclusive */
-.mid_con{
-	height: 1270px;
-}
 
 /* End of Index Exclusive */
