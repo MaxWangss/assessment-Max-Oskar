@@ -69,8 +69,12 @@ nav a:hover{
 
 ul {
 	list-style: none;
+	padding: 4px;
 }
 
+li {
+	padding: 4px;
+}
 
 .footer{
 	background-color: #2FBEC2;
