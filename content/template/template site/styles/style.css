@@ -39,7 +39,7 @@ header{
 
 
 #title {
-    font-family: helvetica;
+    font-family: Verdana;
     color: white;
     font-weight: bold;
 }
@@ -49,7 +49,7 @@ header{
 }
 
 nav ul{
-    font-family: helvetica;
+    font-family: Verdana;
     /*font-size:25px;*/
 	/*padding-left:35px;*/
 }
@@ -59,10 +59,6 @@ nav li{
 }
 nav a{
     display:block;
-	/*text-align: center;
-    width: 310px;
-	height: 40px;
-    padding: 15px 10px 10px 10px;*/
     color:white;  
     text-decoration:none;
 	border: 3px solid white;
@@ -103,7 +99,7 @@ ul {
 
 .footer_title_find_us {
 	font-size: 25px;
-	font-family: 'Poppins',sans-serif;
+	font-family: Verdana;
 	color: white;
 	text-transform: capitalize;
 	margin-bottom: 25px;
@@ -123,7 +119,7 @@ ul {
 
 .footer_title_contact_us {
 	font-size: 25px;
-	font-family: 'Poppins',sans-serif;
+	font-family: Verdana;
 	color: white;
 	text-transform: capitalize;
 	margin-bottom: 25px;
@@ -144,7 +140,7 @@ ul {
 
 .footer_title_follow_us {
 	font-size: 25px;
-	font-family: 'Poppins',sans-serif;
+	font-family: Verdana;
 	color: white;
 	text-transform: capitalize;
 	margin-bottom: 25px;
