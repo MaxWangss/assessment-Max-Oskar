@@ -38,20 +38,18 @@ header{
     font-weight: bold;
 }
 
-nav {
-	padding-right: 32px;
-}
-
 #nav_container {
     text-align: center;
 }
 
 nav ul{
     font-family: Verdana;
+	padding: 4px;
+	list-style: none;
 }
 
 nav li{
-    display:inline-block;
+	padding: 4px;
 }
 nav a{
     display:block;
