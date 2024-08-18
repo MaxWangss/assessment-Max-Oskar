@@ -62,6 +62,18 @@ nav a:hover{
 	background-color: #ff9100;
 }
 
+.p {
+	font-weight: 400;
+}
+
+#title_club_portal {
+	font-weight:700;
+	font-family: Verdana;
+}
+
+#border_con_clubportal_page {
+	border: 1px solid black;
+}
 
 .footer_container {
 	text-align: center;
