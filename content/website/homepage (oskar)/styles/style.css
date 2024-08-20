@@ -235,9 +235,19 @@ ul {
 
 
 /* Index Exclusive */
-.mid_con{
-	height: 1270px;
-    background-color: white;
+#divider1{
+    background-color: black;
+    height: 2px;
+}
+
+.color_divider{
+    background-color: #2FBEC2;
+    color: white;
+}
+
+#constitution_button{
+    background-color: #2FBEC2;
+    color: white;
 }
 
 /* End of Index Exclusive */
