@@ -74,13 +74,27 @@ nav a:hover{
 	font-weight: 400;
 }
 
+
+#WANZ_Fee_Structure {
+	text-align: center;
+}
+
+
 #title_club_portal {
 	font-weight:700;
 	font-family: Verdana;
 }
 
+.border_con_padding {
+	padding: 20px 0;
+}
+
 #border_con_clubportal_page {
 	border: 1px solid black;
+}
+
+.background {
+	background-color: #2FBEC2;
 }
 
 .footer_container {
