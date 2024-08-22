@@ -205,6 +205,10 @@ ul {
 	#title{
         font-size: 30px;
     }
+
+	.vm_text{
+		font-size: 12px;
+	}
 }
 
 /* Medium devices (tablets, 768px and up)*/
