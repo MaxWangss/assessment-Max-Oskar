@@ -64,8 +64,6 @@ nav a:hover{
 
 #page_container {
 	width: 100%;
-    padding-right: 150px;
-    padding-left: 150px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -75,8 +73,18 @@ nav a:hover{
 }
 
 
+#expectation{
+	font-size: 20px;
+}
+
+#expectation_white {
+	font-size: 20px;
+}
+
 #WANZ_Fee_Structure {
 	text-align: center;
+	color: white;
+	font-size: 20px;
 }
 
 
@@ -90,7 +98,15 @@ nav a:hover{
 }
 
 #border_con_clubportal_page {
+	margin: auto;
 	border: 1px solid black;
+	width: 75%;
+}
+
+#border_con_clubportal_page_white {
+	margin: auto;
+	border: 1px solid white;
+	width: 75%;
 }
 
 .background {
@@ -102,6 +118,19 @@ nav a:hover{
 	margin: auto;
 }
 
+#expectation_white {
+	color: white;
+}
+
+#title_club_portal_white {
+	color: white;
+	font-weight:700;
+	font-family: Verdana;
+}
+
+#img {
+	margin:auto;
+}
 
 ul {
 	list-style: none;
