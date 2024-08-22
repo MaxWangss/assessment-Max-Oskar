@@ -245,20 +245,9 @@ ul {
 }
 
 .color_divider{
-    background-color: #2FBEC2;
+    background-color: #FDC010;
     color: white;
 }
 
-.constitution_button{
-    background-color: #2FBEC2;
-    color: white;
-	height: 60px;
-	border-radius: 3px;
-	padding-top: 10px;
-}
-
-a{
-	text-decoration: none;
-}
 
 /* End of Index Exclusive */
