@@ -252,13 +252,8 @@ ul {
 .constitution_button{
     background-color: #2FBEC2;
     color: white;
-	height: 60px;
-	border-radius: 3px;
-	padding-top: 10px;
-}
-
-a{
-	text-decoration: none;
+	height: 40px;
+	padding-top: 3px;
 }
 
 /* End of Index Exclusive */
