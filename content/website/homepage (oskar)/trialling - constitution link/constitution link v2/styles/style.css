@@ -250,10 +250,9 @@ ul {
 }
 
 .constitution_button{
-    background-color: #2FBEC2;
-    color: white;
-	height: 60px;
-	border-radius: 3px;
+    border: solid 2px #2FBEC2;
+    color: rgb(0, 0, 0);
+	height: 50px;
 	padding-top: 10px;
 }
 
