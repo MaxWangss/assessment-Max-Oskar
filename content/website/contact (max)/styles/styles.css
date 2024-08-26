@@ -64,11 +64,6 @@ nav a:hover{
 
 #page_container {
 	width: 100%;
-<<<<<<< HEAD
-    padding-right: 150px;
-    padding-left: 150px;
-=======
->>>>>>> 0441149fdd0a4cc9deefad0c2b8e0c076f50f7f4
     margin-right: auto;
     margin-left: auto;
 }
@@ -77,8 +72,6 @@ nav a:hover{
 	font-weight: 400;
 }
 
-<<<<<<< HEAD
-=======
 
 #expectation{
 	font-size: 20px;
@@ -95,16 +88,11 @@ nav a:hover{
 }
 
 
->>>>>>> 0441149fdd0a4cc9deefad0c2b8e0c076f50f7f4
 #title_club_portal {
 	font-weight:700;
 	font-family: Verdana;
 }
 
-<<<<<<< HEAD
-#border_con_clubportal_page {
-	border: 1px solid black;
-=======
 .border_con_padding {
 	padding: 20px 0;
 }
@@ -123,7 +111,6 @@ nav a:hover{
 
 .background {
 	background-color: #2FBEC2;
->>>>>>> 0441149fdd0a4cc9deefad0c2b8e0c076f50f7f4
 }
 
 .footer_container {
