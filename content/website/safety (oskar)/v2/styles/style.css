@@ -235,15 +235,15 @@ ul {
 
 
 
-/* Constants Code End*/
-
-
-/* Index Exclusive */
-#divider1{
+.divider1{
     background-color: black;
     height: 2px;
 }
 
+/* Constants Code End*/
+
+
+/* Index Exclusive */
 .color_divider{
     background-color: #2FBEC2;
     color: white;
@@ -262,3 +262,27 @@ a{
 }
 
 /* End of Index Exclusive */
+
+/* Safety Exclusive */
+
+.bullet_points li{
+	display: list-item;
+	list-style-type: circle;
+}
+
+/* End of Safety Exclusive */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* End of Safety Exclusive */
