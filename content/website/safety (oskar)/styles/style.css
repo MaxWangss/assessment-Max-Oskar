@@ -239,7 +239,7 @@ ul {
 
 
 /* Index Exclusive */
-#divider1{
+.divider1{
     background-color: black;
     height: 2px;
 }
