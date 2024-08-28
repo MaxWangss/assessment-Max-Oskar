@@ -2,19 +2,7 @@
 
 @import url('http://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-.h1{
-    font-family: helvetica;
-}
-.h2{
-    font-family: helvetica;
-}
-.h3{
-    font-family: helvetica;
-}
-.h4{
-    font-family: helvetica;
-}
-
+/* The following 4 style groups set the various colours of the header */
 header{
 	background-color: #2FBEC2;
 }
@@ -31,7 +19,7 @@ header{
     border: 4px solid #E42D26;
 }
 
-
+/* This styles the font-family, colour, and font weighting for the title */
 #title {
     font-family: Verdana;
     color: white;
@@ -198,7 +186,7 @@ ul {
 	color: #FDC010;
 }
 
-
+/* I used the following section to set differing font sizes for the title text in between viewport sizes */
 
 /* Small devices and smaller (landscape phones, 576px and up)*/
 @media (max-width: 767px) {
@@ -239,16 +227,20 @@ ul {
 
 
 /* Index Exclusive */
+
+/* Sets the colour and height of the divider line */
 .divider1{
     background-color: black;
     height: 2px;
 }
 
+/* Sets the thematic colour of the color divider, and text colour */
 .color_divider{
     background-color: #2FBEC2;
     color: white;
 }
 
+/* Styles the constitution button, including the radius, and finer margins/padding */
 .constitution_button{
     background-color: #2FBEC2;
     color: white;
@@ -257,6 +249,7 @@ ul {
 	padding-top: 10px;
 }
 
+/* Removes the link auto-styling */
 a{
 	text-decoration: none;
 }
