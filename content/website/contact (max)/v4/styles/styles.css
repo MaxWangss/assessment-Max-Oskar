@@ -75,31 +75,16 @@ nav a:hover{
 
 #expectation{
 	font-size: 20px;
-	font-family: Verdana;
 }
 
 #expectation_white {
 	font-size: 20px;
-	font-family: Verdana;
 }
 
 #WANZ_Fee_Structure {
 	text-align: center;
 	color: white;
 	font-size: 20px;
-	font-family: Verdana;
-}
-
-#login {
-	text-decoration: none;
-	display:block;
-    color:#35d0d5;  
-	border: 2px solid black;
-}
-
-#button a:hover{
-	color: white;
-	background-color: #ff9100;
 }
 
 
@@ -126,15 +111,6 @@ nav a:hover{
 
 .background {
 	background-color: #2FBEC2;
-}
-
-#button {
-	margin:auto;
-	font-weight: 550;
-}
-
-#mens_padding_surf {
-	margin:auto;
 }
 
 .footer_container {
