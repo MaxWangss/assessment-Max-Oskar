@@ -115,13 +115,13 @@ nav a:hover{
 .border_con_clubportal_page {
 	margin: auto;
 	border: 1px solid black;
-	width: 75%;
+	width: 50%;
 }
 
 .border_con_clubportal_page_white {
 	margin: auto;
 	border: 1px solid white;
-	width: 75%;
+	width: 50%;
 }
 
 .background {
