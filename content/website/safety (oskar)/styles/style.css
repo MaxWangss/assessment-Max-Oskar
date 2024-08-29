@@ -265,6 +265,7 @@ a{
 
 /* Safety Exclusive */
 
+/* I added a bullet point styling to the lists on the safety page */
 .bullet_points li{
 	display: list-item;
 	list-style-type: circle;
