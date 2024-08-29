@@ -66,6 +66,7 @@ nav a:hover{
 	width: 100%;
     margin-right: auto;
     margin-left: auto;
+	padding: 0 200px;
 }
 
 .p {
@@ -109,6 +110,12 @@ nav a:hover{
 	width: 75%;
 }
 
+#button a:hover{
+	color: white;
+	background-color: #ff9100;
+}
+
+
 #border_con_clubportal_page_white {
 	margin: auto;
 	border: 1px solid white;
@@ -117,6 +124,13 @@ nav a:hover{
 
 .background {
 	background-color: #2FBEC2;
+}
+
+#login {
+	text-decoration: none;
+	display:block;
+    color:#2FBEC2;  
+	border: 2px solid black;
 }
 
 #button {
