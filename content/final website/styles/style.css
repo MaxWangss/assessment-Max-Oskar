@@ -2,6 +2,11 @@
 
 @import url('http://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
+/* Sets the font family for the entire document */
+body {
+	font-family: "Verdana";
+}
+
 /* The following 4 style groups set the various colours of the header */
 header{
 	background-color: #2FBEC2;
