@@ -272,7 +272,95 @@ a{
 
 /* Members Exclusive */
 
+.page_container {
+	width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
 
+.p {
+	font-weight: 400;
+}
+/* This is the section for all context in the page */
+
+.context{
+	font-size: 20px;
+	font-family: Verdana;
+}
+
+.context_white {
+	color: white;
+	font-size: 20px;
+	font-family: Verdana;
+}
+
+.context_title_white {
+	color: white;
+	font-weight:700;
+	font-family: Verdana;
+}
+
+/* The code for login button on the page */
+
+#login {
+	text-decoration: none;
+	display:block;
+    color:#2FBEC2;  
+	border: 2px solid black;
+}
+
+#button a:hover{
+	color: white;
+	background-color: #ff9100;
+}
+
+#button {
+	margin:auto;
+	font-weight: 550;
+}
+
+/* This is the setting for titles on the page */
+
+.context_title {
+	font-weight:700;
+	font-family: Verdana;
+}
+
+/* This is the code for the line under the context */
+
+.border_con_padding {
+	padding: 20px 0;
+}
+
+.border_con_clubportal_page {
+	margin: auto;
+	border: 1px solid black;
+	width: 50%;
+}
+
+.border_con_clubportal_page_white {
+	margin: auto;
+	border: 1px solid white;
+	width: 50%;
+}
+
+/* The background for second section on the page */
+
+.background {
+	background-color: #2FBEC2;
+}
+
+
+
+.footer_container {
+	text-align: center;
+	margin: auto;
+}
+
+
+.img {
+	margin:auto;
+}
 
 
 /* End of Members Exclusive */

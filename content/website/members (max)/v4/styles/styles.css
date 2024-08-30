@@ -1,19 +1,7 @@
 /* Constants Code*/
 
 @import url('http://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-
-.h1{
-    font-family: helvetica;
-}
-.h2{
-    font-family: helvetica;
-}
-.h3{
-    font-family: helvetica;
-}
-.h4{
-    font-family: helvetica;
-}
+/* The following 4 style groups set the various colours of the header */
 
 header{
 	background-color: #2FBEC2;
@@ -31,13 +19,14 @@ header{
     border: 4px solid #E42D26;
 }
 
-
+/* This styles the font-family, colour, and font weighting for the title */
 #title {
     font-family: Verdana;
     color: white;
     font-weight: bold;
 }
 
+/* This is the section for navbar */
 #nav_container {
     text-align: center;
 }
@@ -71,7 +60,7 @@ nav a:hover{
 .p {
 	font-weight: 400;
 }
-
+/* This is the section for all context in the page */
 
 .context{
 	font-size: 20px;
@@ -79,16 +68,18 @@ nav a:hover{
 }
 
 .context_white {
-	font-size: 20px;
-	font-family: Verdana;
-}
-
-#WANZ_Fee_Structure {
-	text-align: center;
 	color: white;
 	font-size: 20px;
 	font-family: Verdana;
 }
+
+.context_title_white {
+	color: white;
+	font-weight:700;
+	font-family: Verdana;
+}
+
+/* The code for login button on the page */
 
 #login {
 	text-decoration: none;
@@ -102,11 +93,19 @@ nav a:hover{
 	background-color: #ff9100;
 }
 
+#button {
+	margin:auto;
+	font-weight: 550;
+}
+
+/* This is the setting for titles on the page */
 
 .context_title {
 	font-weight:700;
 	font-family: Verdana;
 }
+
+/* This is the code for the line under the context */
 
 .border_con_padding {
 	padding: 20px 0;
@@ -124,33 +123,19 @@ nav a:hover{
 	width: 50%;
 }
 
+/* The background for second section on the page */
+
 .background {
 	background-color: #2FBEC2;
 }
 
-#button {
-	margin:auto;
-	font-weight: 550;
-}
 
-#mens_padding_surf {
-	margin:auto;
-}
 
 .footer_container {
 	text-align: center;
 	margin: auto;
 }
 
-.context_white {
-	color: white;
-}
-
-.context_title_white {
-	color: white;
-	font-weight:700;
-	font-family: Verdana;
-}
 
 .img {
 	margin:auto;
@@ -160,12 +145,14 @@ ul {
 	list-style: none;
 }
 
+/* The section of the footer on the page */
 
 .footer{
 	background-color: #2FBEC2;
 	padding: 20px 0 10px 0;
 }
 
+/* The line on the footer */
 
 .footer::before {
 	content: '';
@@ -176,7 +163,7 @@ ul {
 	background: #E42D26;
 }
 
-/* According to the feedback, I shortened the distance between the title and the information part by 5px to make the overall structure look more reasonable. */
+/* The title in the footer and the underline with the title */
 
 .footer_title_find_us {
 	font-size: 25px;
@@ -240,7 +227,7 @@ ul {
 	width: 120px;
 }
 
-/* Based on feedback I increased the font size of the info section, but didn't change much to ensure aesthetics. */
+/* The context setting */
 
 .Find_Us_info {
 	font-size: 16px;
@@ -264,7 +251,7 @@ ul {
 	line-height: 2;
 }
 
-/* Since adding mouse feedback to all information parts will cause users to misunderstand that this effect is meaningless, I think it is meaningless to add this code. */
+/* The hover effect on the social links */
 
 .content:hover {
 	color: #FDC010;
